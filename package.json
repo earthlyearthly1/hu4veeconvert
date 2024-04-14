@@ -1,0 +1,29 @@
+{
+  "name": "hu4veeconvert",
+  "version": "1.0.0",
+  "description": "hu4veeconvert",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/earthlyearthly1/hu4veeconvert.git"
+  },
+  "keywords": [
+    "hu4veeconvert",
+    "ethereum",
+    "gas",
+    "eth",
+    "crypto"
+  ],
+  "author": "earthlyearthly1",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/earthlyearthly1/hu4veeconvert/issues"
+  },
+  "homepage": "https://github.com/earthlyearthly1/hu4veeconvert#readme",
+  "dependencies": {
+    "web3": "^1.5.2"
+  }
+}
